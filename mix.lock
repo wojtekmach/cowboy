@@ -1,0 +1,4 @@
+%{
+  "cowlib": {:git, "https://github.com/wojtekmach/cowlib.git", "df7f03f4f01938a812021893f950fa2037273213", [branch: "wm-elixir-run"]},
+  "ranch": {:git, "https://github.com/wojtekmach/ranch.git", "01fc871f2db4390f8dde7254a35349d631002985", [branch: "wm-elixir-run"]},
+}
